@@ -2,9 +2,6 @@
 
 # Single-Cell RNA Sequencing Analysis of Colorectal Cancer Organoids and Primary Tissues
 
-**Master's Thesis Project**  
-*Bioinformatics & Computational Biology*
-
 ## 📋 Project Overview
 
 This repository contains the computational analysis pipeline and results for my Master's dissertation investigating the cellular and transcriptional differences between patient-derived colorectal cancer (CRC) organoids and matched primary tumour tissues using single-cell RNA sequencing (scRNA-seq).
